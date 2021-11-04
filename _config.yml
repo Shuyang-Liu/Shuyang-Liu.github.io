@@ -1,137 +1,80 @@
+# Header
+menu:
+  首页: /
 
-# Hexo Configuration
-## Docs: https://hexo.io/docs/configuration.html
-## Source: https://github.com/hexojs/hexo/
+# 主页banner图
+banner: 
 
-# Site
-title: Shuyang's blog
-description: HUST | CS
-author: Liu Shuyang
-language: zh-CN
-timezone:
+# 站点通知信息
+notice: 
 
-# URL
-## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: https://afra.com
-root: /
-permalink: :year/:month/:day/:title/
-permalink_defaults:
+# 作者信息
+author:
+  name: Liu Shuyang
+  avatar: https://avatars.githubusercontent.com/u/76858514?s=400&u=5e4f006de45792359ede9aa1ebb542041fe44865&v=4
+  description: HUST | CS
 
-# Directory
-source_dir: source
-public_dir: public
-tag_dir: tags
-archive_dir: archives
-category_dir: categories
-code_dir: downloads/code
-i18n_dir: :lang
-skip_render:
+toc:
+  max_depth: 3 # 生成 TOC 的最大深度
+  min_depth: 2 # 生成 TOC 的最小深度
 
-# Writing
-new_post_name: :title.md # File name of new posts
-default_layout: post
-titlecase: false # Transform title into titlecase
-external_link: true # Open external links in new tab
-filename_case: 0
-render_drafts: false
-post_asset_folder: true
-relative_link: false
-future: true
-highlight:
-  enable: false
-  line_number: false
-  auto_detect: false
-  tab_replace:
-
-prism_plugin:
-  mode: 'preprocess'    # realtime/preprocess
-  theme: 'tomorrow'
-  line_number: true    # default false
-  custom_css:
-
-search:
-  path: search.xml
-  field: post
-
-permalink_pinyin:
+comments:
   enable: true
-  separator: '-' # default: '-'
+  use: 'valine' # valine || disqus
+  # valine 评论
+  # docs: https://valine.js.org
+  # You can get your appid and appkey from https://leancloud.cn
+  # 这里appId和appKey一定要改成自己的，没有的话去https://leancloud.cn这个网站注册创建一个
+  valine:
+    appId:
+    appKey:
+    avatar: 
+    placeholder: 与我抒怀皆可直白
+    notify: true
+    visitor: true
+    pageSize: 10
+  # disqus 评论
+  # docs: https://disqus.com/
+  disqus:
+    website:
+    error: 如果你看不到评论，那么就真的看不到评论 w(゜Д゜)w
 
-feed:
-  type: atom
-  path: atom.xml
-  limit: 20
-  hub:
-  content:
-  content_limit: 140
-  content_limit_delim: ' '
-  order_by: -date
+# dplayer 视频播放
+# docs: http://dplayer.js.org/#/zh-Hans/
+dplayer:
+  enable: true
+  theme: "#b7daff"
+  autoplay: false
+  loop: false
+  mutex: true
 
-Plugins:
-- hexo-generator-baidu-sitemap
-- hexo-generator-sitemap
+# aplayer 音频播放
+# docs: https://aplayer.js.org/#/zh-Hans/
+aplayer:
+  enable: true
+  theme: "#b7daff"
+  autoplay: false
+  loop: false
+  mutex: true
+  lrcType: 3
 
-baidusitemap:
-    path: baidusitemap.xml
-sitemap:
-    path: sitemap.xml
-  
-# Home page setting
-# path: Root path for your blogs index page. (default = '')
-# per_page: Posts displayed per page. (0 = disable pagination)
-# order_by: Posts order. (Order by date descending by default)
-index_generator:
-  path: ''
-  per_page: 12
-  order_by: -date
-  
-# Category & Tag
-default_category: uncategorized
-category_map:
-tag_map:
+# 国内备案信息
+beian: 
 
-# Date / Time format
-## Hexo uses Moment.js to parse and display date
-## You can customize the date format as defined in
-## http://momentjs.com/docs/#/displaying/format/
-date_format: YYYY-MM-DD
-time_format: HH:mm:ss
+# 谷歌分析
+google_analytics: UA-165681463-1
+# gauges分析
+gauges_analytics: 
+# 百度分析
+baidu_analytics: 77cce6624f1114785af5e77d00cbf93c
+# 腾讯分析
+tencent_analytics: 66537616
+# 站点ico
+favicon: /favicon.ico
 
-# Pagination
-## Set per_page to 0 to disable pagination
-per_page: 12
-pagination_dir: page
-
-# Extensions
-## Plugins: https://hexo.io/plugins/
-## Themes: https://hexo.io/themes/
-theme: Cayman
-
-# Deployment
-## Docs: https://hexo.io/docs/deployment.html
-deploy:
-- type: git
-  repository:
-    github: git@github.com:Shuyang-Liu/Shuyang-Liu.github.io.git
-  branch: master
-- type: baidu_url_submitter
-
-
-live2d:
-  enable: false
-  scriptFrom: local
-  pluginRootPath: live2dw/
-  pluginJsPath: lib/
-  pluginModelPath: assets/
-  tagMode: false
-  log: false
-  model:
-    use: live2d-widget-model-shizuku
-  display:
-    position: left
-    width: 200
-    height: 400
-  mobile:
-    show: false
-  react:
-    opacity: 0.7
+# Social Icon
+social_icon:
+  enable: true
+  icons:
+    github  : https://github.com/Shuyang-Liu
+    twitter : https://twitter.com/guanquanhong
