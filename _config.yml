@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Shuyang Liu"
+title                    : "Shuyang Liu's Personal Site"
 title_separator          : "-"
 name                     : &name "Shuyang Liu"
 description              : &description "personal description"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Shuyang Liu"
-  avatar           : "profile.png"
+  avatar           : "https://github.com/Shuyang-Liu/Shuyang-Liu.github.io/blob/master/images/profile.png"
   bio              : "Senior@HUST CS"
   location         : "Wuhan, China"
   employer         :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "https://twitter.com/Afra55602039"
+  twitter          : Afra55602039
   vine             :
   weibo            :
   xing             :
