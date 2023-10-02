@@ -10,7 +10,9 @@ redirect_from:
 
 Senior @ [Huazhong University of Science and Technology](http://english.hust.edu.cn/)  
 Department of Computer Science  
-Research Intern at [Hongkong University of Science and Technology](https://hkust.edu.hk/), [Columbia University](https://www.columbia.edu/).  
+Research Intern at [Columbia University](https://www.columbia.edu/), [University of Chicago](https://www.uchicago.edu/).  
+Contact: [liushuyang860@gmail.com](liushuyang860@gmail.com)
+
 I am actively seeking a PhD position in SE/PL/Security for 2024 fall.  
 You're welcome to download my CV [here](CV.pdf).  
 
