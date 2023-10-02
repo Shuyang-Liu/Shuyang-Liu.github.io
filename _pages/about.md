@@ -27,7 +27,7 @@ Hi! I am a fourth-year undergraduate at the [School of Computer Science & Techno
   - GPA: 3.92/4.00
 
 # Publication
-- \[In Submission] Symmetry-Preserving Program Representations for Learning Code Semantics
+- \[In Submission] **Symmetry-Preserving Program Representations for Learning Code Semantics**  
 Kexin Pei, Weichen Li, Qirui Jin, **Shuyang Liu**, Scott Geng, Lorenzo Cavallaro, Junfeng Yang, Suman Jana
 
 # Research Experience
@@ -35,11 +35,11 @@ Kexin Pei, Weichen Li, Qirui Jin, **Shuyang Liu**, Scott Geng, Lorenzo Cavallaro
 [Columbia University](https://www.columbia.edu/), 2023.3 - 2023.9  
 - Mentor: [Kexin Pei](https://sites.google.com/site/kexinpeisite/)  
 - Advisor: [Suman Jana](http://www.cs.columbia.edu/~suman/index.html)  
-- Duties: Employed Tree-sitter to construct PDGs based on data/control dependencies between statements; Implemented 6 semantic-preserving source code transformations beyond PDG automorphisms; Evaluated baselines for Java method name prediction, which performs an “extreme summarization” of the function behavior.
+- Duties: Employed Tree-sitter to construct PDGs based on data/control dependencies between statements; Implemented 6 semantic-preserving source code transformations beyond PDG automorphisms; Evaluated baselines for Java method name prediction, which performs an “extreme summarization” of the function behavior.  
 ## Token-Level Static Program Analysis
 [University of Chicago](https://www.uchicago.edu/), 2023.9 - Present
 - Advisor: [Kexin Pei](https://sites.google.com/site/kexinpeisite/)
-- Duties: Interprocedural Analysis; Type Inference; Extract dependencies between tokens.
+- Duties: Interprocedural Analysis; Type Inference; Extract dependencies between tokens.  
 ## Automatic identification of Bug Inducing Commits
 [CASTLE Lab @HKUST](http://castle.cse.ust.hk/castle/index.html), 2022.10 - Present  
 - Mentor: Xiao Chen  
