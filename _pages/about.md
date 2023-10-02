@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Shuyang Liu's personal website"
+title: "Shuyang Liu"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,14 +9,16 @@ redirect_from:
 ---
 
 Senior @ [Huazhong University of Science and Technology](http://english.hust.edu.cn/)
+
 Department of Computer Science
 
 I am actively seeking a PhD position in SE/PL/Security for 2024 fall.
+
 You're welcome to download my CV [here](https://github.com/Shuyang-Liu/Shuyang-Liu.github.io/blob/master/files/CV.pdf)
 
 About me
 ======
-Hi! I am a fourth-year undergraduate at the [School of Computer Science & Technology](http://english.cs.hust.edu.cn/), [Huazhong University of Science and Technology](http://english.hust.edu.cn/). My research interests lie in Software Engineering, Machine Learning, and Security, focusing on developing data-driven program analysis to improve the security and reliability of software systems. I also got excited about Programming Languages.
+Hi! I am a fourth-year undergraduate at the [School of Computer Science & Technology](http://english.cs.hust.edu.cn/), [Huazhong University of Science and Technology](http://english.hust.edu.cn/). My research interests lie in Software Engineering, Machine Learning, and Security, focusing on developing data-driven program analysis to improve the security and reliability of software systems. I also get excited about Programming Languages.
 
 Research Experience
 ======
