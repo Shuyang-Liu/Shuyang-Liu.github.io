@@ -1,6 +1,5 @@
 ---
 title: \[under review] "Symmetry-Preserving Program Representations for Learning Code Semantics"
-collection: publications
 date: 2024
 venue: 'ICLR'
 ---
