@@ -23,7 +23,7 @@ Hi! I am a fourth-year undergraduate at the [School of Computer Science & Techno
 # Education
 
 - B.Eng. Huazhong University of Science and Technology
-  - 2020-2024(expected)
+  - 2020-2024 (expected)
   - GPA: 3.92/4.00
 
 # Publication
