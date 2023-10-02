@@ -22,31 +22,42 @@ Hi! I am a fourth-year undergraduate at the [School of Computer Science & Techno
 
 # Education
 
-- B.Eng. Huazhong University of Science and Technology(HUST), 2020-2024(expected)
+- B.Eng. Huazhong University of Science and Technology
+  - 2020-2024(expected)
   - GPA: 3.92/4.00
 
+# Publication
+- \[In Submission] Symmetry-Preserving Program Representations for Learning Code Semantics
+Kexin Pei, Weichen Li, Qirui Jin, **Shuyang Liu**, Scott Geng, Lorenzo Cavallaro, Junfeng Yang, Suman Jana
+
 # Research Experience
+## Exploiting Code Symmetries for Learning Program Semantics  
+[Columbia University](https://www.columbia.edu/), 2023.3 - 2023.9  
+- Mentor: [Kexin Pei](https://sites.google.com/site/kexinpeisite/)  
+- Advisor: [Suman Jana](http://www.cs.columbia.edu/~suman/index.html)  
+- Duties: Employed Tree-sitter to construct PDGs based on data/control dependencies between statements; Implemented 6 semantic-preserving source code transformations beyond PDG automorphisms; Evaluated baselines for Java method name prediction, which performs an “extreme summarization” of the function behavior.
+## Token-Level Static Program Analysis
+[University of Chicago](https://www.uchicago.edu/), 2023.9 - Present
+- Advisor: [Kexin Pei](https://sites.google.com/site/kexinpeisite/)
+- Duties: Interprocedural Analysis; Type Inference; Extract dependencies between tokens.
+## Automatic identification of Bug Inducing Commits
+[CASTLE Lab @HKUST](http://castle.cse.ust.hk/castle/index.html), 2022.10 - Present  
+- Mentor: Xiao Chen  
+- Advisor: [Ming Wen](https://mingwen-cs.github.io/)
+- Duties: Systematically validated bug-fixing and associated bug-inducing commits for 237 bugs across 5 large open-source Java projects; Employed the bisection method for precise identification; Reproduced SZZ Unleashed algorithm and its variant.
 
-## Exploiting Code Symmetries for Learning Program Semantics
-[Columbia University](https://www.columbia.edu/)
+# Academic Projects
+## Real-time Traffic Sign Recognition System
+[National University of Singapore](https://nus.edu.sg/), 2022.5 - 2022.8
+- Role: Student Team Leader
+- Advisor: [Terence Sim](https://tsim17.wixsite.com/terencesim)
+- Duties: Constructed and tuned a Convolutional Neural Network (CNN) with TensorFlow Keras; Implemented a suite of innovative data augmentations, notably Random Erasing, strategically erasing regions within input images to heighten model robustness and generalize to diverse scenarios.
 
+# Honors
+-  Excellent Student Cadre (2020)
+-  Model Student of Academic Records (2022)
 
-# Create content & metadata
-
-For site content, there is one markdown file for each type of content, which are stored in directories like _publications, _talks, _posts, _teaching, or _pages. For example, each talk is a markdown file in the [_talks directory](https://github.com/academicpages/academicpages.github.io/tree/master/_talks). At the top of each markdown file is structured data in YAML about the talk, which the theme will parse to do lots of cool stuff. The same structured data about a talk is used to generate the list of talks on the [Talks page](https://academicpages.github.io/talks), each [individual page](https://academicpages.github.io/talks/2012-03-01-talk-1) for specific talks, the talks section for the [CV page](https://academicpages.github.io/cv), and the [map of places you've given a talk](https://academicpages.github.io/talkmap.html) (if you run this [python file](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.py) or [Jupyter notebook](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb), which creates the HTML for the map based on the contents of the _talks directory).
-
-**Markdown generator**
-
-I have also created [a set of Jupyter notebooks](https://github.com/academicpages/academicpages.github.io/tree/master/markdown_generator
-) that converts a CSV containing structured data about talks or presentations into individual markdown files that will be properly formatted for the academicpages template. The sample CSVs in that directory are the ones I used to create my own personal website at stuartgeiger.com. My usual workflow is that I keep a spreadsheet of my publications and talks, then run the code in these notebooks to generate the markdown files, then commit and push them to the GitHub repository.
-
-How to edit your site's GitHub repository
-------
-Many people use a git client to create files on their local computer and then push them to GitHub's servers. If you are not familiar with git, you can directly edit these configuration and markdown files directly in the github.com interface. Navigate to a file (like [this one](https://github.com/academicpages/academicpages.github.io/blob/master/_talks/2012-03-01-talk-1.md) and click the pencil icon in the top right of the content preview (to the right of the "Raw | Blame | History" buttons). You can delete a file by clicking the trashcan icon to the right of the pencil icon. You can also create new files or upload files by navigating to a directory and clicking the "Create new file" or "Upload files" buttons. 
-
-Example: editing a markdown file for a talk
-![Editing a markdown file for a talk](/images/editing-talk.png)
-
-For more info
-------
-More info about configuring academicpages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+# Hobbies
+- Music, a major fan of Taylor Swift. Also like Lana Del Rey and Coldplay :)
+- Read extensively, especially prose, poems and novels.
+- Member of TGD, HUST 3C club. Occasionally participate in BP debates.
