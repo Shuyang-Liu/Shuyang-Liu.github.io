@@ -27,8 +27,9 @@ Hi! I am a fourth-year undergraduate at the [School of Computer Science & Techno
   - GPA: 3.92/4.00
 
 # Publication
-- \[In Submission] **Symmetry-Preserving Program Representations for Learning Code Semantics**  
-Kexin Pei, Weichen Li, Qirui Jin, **Shuyang Liu**, Scott Geng, Lorenzo Cavallaro, Junfeng Yang, Suman Jana
+- **Symmetry-Preserving Program Representations for Learning Code Semantics**  
+Kexin Pei, Weichen Li, Qirui Jin, **Shuyang Liu**, Scott Geng, Lorenzo Cavallaro, Junfeng Yang, Suman Jana  
+The 7th Symposium on Machine Programming (MAPS), 2023 [\[pdf]](https://arxiv.org/pdf/2308.03312.pdf)
 
 # Research Experience
 ## Exploiting Code Symmetries for Learning Program Semantics
