@@ -14,7 +14,7 @@ Research Intern at [Columbia University](https://www.columbia.edu/), [University
 Contact: liushuyang860@gmail.com
 
 I am actively seeking a PhD position in SE/PL/Security for 2024 fall.  
-You're welcome to download my CV [here](CV.pdf).  
+You're welcome to download my CV [here](https://shuyang-liu.github.io/files/CV_ShuyangLiu.pdf).  
 
 # About me
 
