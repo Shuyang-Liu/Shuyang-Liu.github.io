@@ -34,26 +34,26 @@ The 7th Symposium on Machine Programming (MAPS), 2023
 # Research Experience
 ## Exploiting Code Symmetries for Learning Program Semantics
 [Columbia University](https://www.columbia.edu/), 2023.3 - 2023.9  
-- Mentor: [Kexin Pei](https://sites.google.com/site/kexinpeisite/)  
-- Advisor: [Suman Jana](http://www.cs.columbia.edu/~suman/index.html)  
+- Mentor: [Kexin Pei](https://scholar.google.com/citations?user=XzSkny0AAAAJ&hl=en)  
+- Advisor: [Suman Jana](https://scholar.google.com/citations?user=SDY9FwUAAAAJ&hl=zh-CN)  
 - Duties: Employed Tree-sitter to construct PDGs based on data/control dependencies between statements; Implemented 6 semantic-preserving source code transformations beyond PDG automorphisms; Evaluated baselines for Java method name prediction, which performs an “extreme summarization” of the function behavior.
 
 ## Token-Level Static Program Analysis
 [University of Chicago](https://www.uchicago.edu/), 2023.9 - Present
-- Advisor: [Kexin Pei](https://sites.google.com/site/kexinpeisite/)
+- Advisor: [Kexin Pei](https://scholar.google.com/citations?user=XzSkny0AAAAJ&hl=en)
 - Duties: Interprocedural Analysis; Type Inference; Extract dependencies between tokens.
 
 ## Automatic identification of Bug Inducing Commits
 [CASTLE Lab @HKUST](http://castle.cse.ust.hk/castle/index.html), 2022.10 - Present  
 - Mentor: Xiao Chen  
-- Advisor: [Ming Wen](https://mingwen-cs.github.io/)
+- Advisor: [Ming Wen](https://scholar.google.com.hk/citations?user=ht2MknAAAAAJ&hl=en)
 - Duties: Systematically validated bug-fixing and associated bug-inducing commits for 237 bugs across 5 large open-source Java projects; Employed the bisection method for precise identification; Reproduced SZZ Unleashed algorithm and its variant.
 
 # Academic Projects
 ## Real-time Traffic Sign Recognition System
 [National University of Singapore](https://nus.edu.sg/), 2022.5 - 2022.8
-- Role: Student Team Leader
-- Advisor: [Terence Sim](https://tsim17.wixsite.com/terencesim)
+- Role: Student Team **Leader**
+- Advisor: [Terence Sim](https://scholar.google.com/citations?user=AdEsZwsAAAAJ&hl=zh-CN)
 - Duties: Constructed and tuned a Convolutional Neural Network (CNN) with TensorFlow Keras; Implemented a suite of innovative data augmentations, notably Random Erasing, strategically erasing regions within input images to heighten model robustness and generalize to diverse scenarios.
 
 # Honors
