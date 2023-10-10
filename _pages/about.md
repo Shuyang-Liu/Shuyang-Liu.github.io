@@ -58,7 +58,9 @@ The 7th Symposium on Machine Programming (MAPS), 2023
 
 # Honors
 -  Excellent Student Cadre (2020)
--  Model Student of Academic Records (2022)
+-  Model Student of Academic Records (2021)
+-  Technology Innovation Scholarship (2022)
+-  Social Welfare Scholarship (2023)
 
 # Hobbies
 - Music, a major fan of Taylor Swift. Also like Lana Del Rey and Coldplay :)
