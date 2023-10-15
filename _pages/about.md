@@ -36,12 +36,12 @@ The 7th Symposium on Machine Programming (MAPS), 2023
 [Columbia University](https://www.columbia.edu/), 2023.3 - 2023.9  
 - Mentor: [Kexin Pei](https://scholar.google.com/citations?user=XzSkny0AAAAJ&hl=en)  
 - Advisor: [Suman Jana](https://scholar.google.com/citations?user=SDY9FwUAAAAJ&hl=zh-CN)  
-- Duties: Employed Tree-sitter to construct PDGs based on data/control dependencies between statements; Implemented 6 semantic-preserving source code transformations beyond PDG automorphisms; Evaluated baselines for Java method name prediction, which performs an “extreme summarization” of the function behavior.
+- Duties: Employed Tree-sitter to construct PDGs based on data/control dependencies between statements; Implemented 9 semantic-preserving source code transformations beyond PDG automorphisms; Evaluated baselines for Java method name prediction, which performs an “extreme summarization” of the function behavior.
 
 ## Token-Level Static Program Analysis
 [University of Chicago](https://www.uchicago.edu/), 2023.9 - Present
 - Advisor: [Kexin Pei](https://scholar.google.com/citations?user=XzSkny0AAAAJ&hl=en)
-- Duties: Interprocedural Analysis; Type Inference; Extract dependencies between tokens.
+- Duties: Type Inference for Python; Extract dependencies between tokens.
 
 ## Automatic identification of Bug Inducing Commits
 [CASTLE Lab @HKUST](http://castle.cse.ust.hk/castle/index.html), 2022.10 - Present  
@@ -64,5 +64,4 @@ The 7th Symposium on Machine Programming (MAPS), 2023
 
 # Hobbies
 - Music, a major fan of Taylor Swift. Also like Lana Del Rey and Coldplay :)
-- Read extensively, especially prose, poems and novels.
 - Member of TGD, HUST 3C club. Occasionally participate in BP debates.
