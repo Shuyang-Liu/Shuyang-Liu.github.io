@@ -1,4 +1,4 @@
----
+![image](https://github.com/Shuyang-Liu/Shuyang-Liu.github.io/assets/76858514/25504b27-35b6-4bf1-adaf-846192f87982)---
 permalink: /
 title: "Shuyang Liu"
 excerpt: "About me"
@@ -18,7 +18,7 @@ You're welcome to download my **CV** [here](https://shuyang-liu.github.io/files/
 
 # About me
 
-Hi! I am a fourth-year undergraduate at the [School of Computer Science & Technology](http://english.cs.hust.edu.cn/), [Huazhong University of Science and Technology](http://english.hust.edu.cn/). My research interests lie in Software Engineering, Machine Learning, and Security, focusing on developing data-driven program analysis to improve the security and reliability of software systems. I also get excited about Programming Languages.
+Hi! I am a fourth-year undergraduate at the [School of Computer Science & Technology](http://english.cs.hust.edu.cn/), [Huazhong University of Science and Technology](http://english.hust.edu.cn/). My research interests lie in Software Engineering, Machine Learning, and Security, focusing on developing both traditional and data-driven program analysis to improve the security and reliability of software systems. I also get excited about Programming Languages.
 
 # Education
 
@@ -38,10 +38,10 @@ Workshop version accepted by the 7th Symposium on Machine Programming (MAPS), 20
 - Advisor: [Suman Jana](https://scholar.google.com/citations?user=SDY9FwUAAAAJ&hl=zh-CN)  
 - Duties: Employed Tree-sitter to construct PDGs based on data/control dependencies between statements; Implemented 9 semantic-preserving source code transformations beyond PDG automorphisms; Evaluated baselines for Java method name prediction, which performs an “extreme summarization” of the function behavior.
 
-## Token-Level Static Program Analysis
+## Enhancing Code Semantics Learning with Fine-Grained PDGs
 [University of Chicago](https://www.uchicago.edu/), 2023.9 - Present
 - Advisor: [Kexin Pei](https://scholar.google.com/citations?user=XzSkny0AAAAJ&hl=en)
-- Duties: Static Type Inference for Python; Extract dependencies between tokens.
+- Duties: Static Type Inference for Python; Extracted dependencies between tokens; Constructed automorphism group of fine-grained program interpretation graphs..
 
 ## Automatic identification of Bug Inducing Commits
 [CASTLE Lab @HKUST](http://castle.cse.ust.hk/castle/index.html), 2022.10 - Present  
