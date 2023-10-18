@@ -1,4 +1,3 @@
-![image](https://github.com/Shuyang-Liu/Shuyang-Liu.github.io/assets/76858514/25504b27-35b6-4bf1-adaf-846192f87982)---
 permalink: /
 title: "Shuyang Liu"
 excerpt: "About me"
