@@ -41,7 +41,7 @@ Workshop version accepted by the 7th Symposium on Machine Programming (MAPS), 20
 ## Enhancing Code Semantics Learning with Fine-Grained PDGs
 [University of Chicago](https://www.uchicago.edu/), 2023.9 - Present
 - Advisor: [Kexin Pei](https://scholar.google.com/citations?user=XzSkny0AAAAJ&hl=en)
-- Duties: Static Type Inference for Python; Extracted dependencies between tokens; Constructed automorphism group of fine-grained program interpretation graphs..
+- Duties: Static Type Inference for Python; Extracted dependencies between tokens; Constructed automorphism group of fine-grained program interpretation graphs.
 
 ## Automatic identification of Bug Inducing Commits
 [CASTLE Lab @HKUST](http://castle.cse.ust.hk/castle/index.html), 2022.10 - Present  
