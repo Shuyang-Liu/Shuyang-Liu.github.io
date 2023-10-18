@@ -46,7 +46,7 @@ Workshop version accepted by the 7th Symposium on Machine Programming (MAPS), 20
 ## Automatic identification of Bug Inducing Commits
 [CASTLE Lab @HKUST](http://castle.cse.ust.hk/castle/index.html), 2022.10 - Present  
 - Mentor: Xiao Chen  
-- Advisor: [Ming Wen](https://scholar.google.com.hk/citations?user=ht2MknAAAAAJ&hl=en)
+- Advisor: [Ming Wen](https://scholar.google.com.hk/citations?user=ht2MknAAAAAJ&hl=en), [Shing-Chi Cheung](https://scholar.google.com.hk/citations?user=5RIgb3wAAAAJ&hl=zh-CN)
 - Duties: Systematically validated bug-fixing and associated bug-inducing commits for 237 bugs across 5 large open-source Java projects; Employed the bisection method for precise identification; Reproduced SZZ Unleashed algorithm and its variant.
 
 # Academic Projects
