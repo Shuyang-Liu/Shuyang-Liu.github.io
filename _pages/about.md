@@ -44,13 +44,13 @@ Workshop version accepted by the 7th Symposium on Machine Programming (MAPS), 20
 - Duties: Static Type Inference for Python; Extracted dependencies between tokens; Constructed automorphism group of fine-grained program interpretation graphs.
 
 ## Automatic identification of Bug Inducing Commits
-[CASTLE Lab @HKUST](http://castle.cse.ust.hk/castle/index.html), 2022.10 - Present  
+[CASTLE Lab @HKUST](http://castle.cse.ust.hk/castle/index.html), Ongoing 
 - Mentor: Xiao Chen  
 - Advisor: [Ming Wen](https://scholar.google.com.hk/citations?user=ht2MknAAAAAJ&hl=en), [Shing-Chi Cheung](https://scholar.google.com.hk/citations?user=5RIgb3wAAAAJ&hl=zh-CN)
-- Duties: Systematically validated bug-fixing and associated bug-inducing commits for 237 bugs across 5 large open-source Java projects; Employed the bisection method for precise identification; Reproduced SZZ Unleashed algorithm and its variant.
+- Duties: Systematically validated bug-fixing and associated bug-inducing commits for 237 bugs across 5 large open-source Java projects via bisect testing; Reproduced SZZ Unleashed algorithm and its variant.
 
-# Academic Projects
-## Real-time Traffic Sign Recognition System
+# Exchange Program
+## Real-time Traffic Sign Recognition System with Adversarial Training
 [National University of Singapore](https://nus.edu.sg/), 2022.5 - 2022.8
 - Role: Student Team **Leader**
 - Advisor: [Terence Sim](https://scholar.google.com/citations?user=AdEsZwsAAAAJ&hl=zh-CN)
