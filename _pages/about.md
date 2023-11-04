@@ -37,7 +37,7 @@ Submitted to [ICLR 2024](https://iclr.cc/). Under Review.
 [Columbia University](https://www.columbia.edu/), 2023.3 - 2023.9  
 - Mentor: [Kexin Pei](https://scholar.google.com/citations?user=XzSkny0AAAAJ&hl=en)  
 - Advisor: [Suman Jana](https://scholar.google.com/citations?user=SDY9FwUAAAAJ&hl=zh-CN)  
-- Duties: Employed Tree-sitter to construct Program Dependence Graphs based on data/control dependencies between statements; Implemented 9 semantic-preserving source code transformations, including Statement Permutation, where I extended existing work beyond only two-statement permutation to all possible PDG automorphisms; Evaluated baselines for method name prediction, which performs an “extreme summarization” of the function behavior.
+- Duties: Constructed Program Dependence Graphs based on data/control dependencies between statements; Implemented 9 semantic-preserving source code transformations, including Statement Permutation, where I extended existing work beyond only two-statement permutation to all possible PDG automorphisms; Evaluated baselines for method name prediction, which performs an "extreme summarization" of the function behavior.
 
 ## Enhancing Code Semantics Learning with Fine-Grained PDGs
 [University of Chicago](https://www.uchicago.edu/), 2023.9 - Present
@@ -59,7 +59,7 @@ Submitted to [ICLR 2024](https://iclr.cc/). Under Review.
 
 # Honors
 -  Excellent Student Cadre (2020)
--  Model Student of Academic Records (2021)
+-  Outstanding Undergraduate of Academic Performance (2021)
 -  Technology Innovation Scholarship (2022)
 -  Social Welfare Scholarship (2023)
 
