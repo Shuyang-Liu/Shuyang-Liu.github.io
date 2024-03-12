@@ -30,32 +30,7 @@ Hi! I am a fourth-year undergraduate at the [School of Computer Science & Techno
 - [[pdf](https://arxiv.org/pdf/2308.03312.pdf)] **Symmetry-Preserving Program Representations for Learning Code Semantics**  
 Kexin Pei, Weichen Li\*, Qirui Jin*, **Shuyang Liu**, Scott Geng, Lorenzo Cavallaro, Junfeng Yang, Suman Jana  
 Accepted by [MAPS workshop at ESEC/FSE 2023](https://mapsworkshop.github.io/)  
-Submitted to [ICLR 2024](https://iclr.cc/). Under Review.
-
-# Research Experience
-## Exploiting Code Symmetries for Learning Program Semantics
-[Columbia University](https://www.columbia.edu/), 2023.3 - 2023.9  
-- Mentor: [Kexin Pei](https://scholar.google.com/citations?user=XzSkny0AAAAJ&hl=en)  
-- Advisor: [Suman Jana](https://scholar.google.com/citations?user=SDY9FwUAAAAJ&hl=zh-CN)  
-- Duties: Constructed Program Dependence Graphs based on data/control dependencies between statements; Implemented 9 semantic-preserving source code transformations, including Statement Permutation, where I extended existing work beyond only two-statement permutation to all possible PDG automorphisms; Evaluated baselines for method name prediction, which performs an "extreme summarization" of the function behavior.
-
-## Enhancing Code Semantics Learning with Fine-Grained PDGs
-[University of Chicago](https://www.uchicago.edu/), 2023.9 - Present
-- Advisor: [Kexin Pei](https://scholar.google.com/citations?user=XzSkny0AAAAJ&hl=en)
-- Duties: Static Type Inference for Python; Extracted dependencies between tokens; Constructed automorphism group of fine-grained program interpretation graphs.
-
-## Automatic identification of Bug Inducing Commits
-[CASTLE Lab @HKUST](http://castle.cse.ust.hk/castle/index.html), Ongoing 
-- Mentor: Xiao Chen  
-- Advisor: [Ming Wen](https://scholar.google.com.hk/citations?user=ht2MknAAAAAJ&hl=en), [Shing-Chi Cheung](https://scholar.google.com.hk/citations?user=5RIgb3wAAAAJ&hl=zh-CN)
-- Duties: Systematically validated bug-fixing and associated bug-inducing commits for 237 bugs across 5 large open-source Java projects via bisect testing; Reproduced SZZ Unleashed algorithm and its variant.
-
-# Exchange Program
-## Real-time Traffic Sign Recognition System with Adversarial Training
-[National University of Singapore](https://nus.edu.sg/), 2022.5 - 2022.8
-- Role: Student Team **Leader**
-- Advisor: [Terence Sim](https://scholar.google.com/citations?user=AdEsZwsAAAAJ&hl=zh-CN)
-- Duties: Constructed and tuned a Convolutional Neural Network (CNN) with TensorFlow Keras; Implemented a suite of innovative data augmentations, notably Random Erasing, strategically erasing regions within input images to heighten model robustness and generalize to diverse scenarios.
+Submitted to [ICML 2024](https://icml.cc/). Under Review.
 
 # Honors
 -  Excellent Student Cadre (2020)
