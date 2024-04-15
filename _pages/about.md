@@ -13,8 +13,7 @@ Department of Computer Science
 Research Intern at [Columbia University](https://www.columbia.edu/), [University of Chicago](https://www.uchicago.edu/).  
 Contact: liushuyang860@gmail.com
 
-I am actively seeking a PhD position in SE/PL/Security for 2024 fall.  
-You're welcome to download my **CV** [here](https://shuyang-liu.github.io/files/CV_ShuyangLiu.pdf).  
+Incoming PhD student at UIUC  
 
 # About me
 
