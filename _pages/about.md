@@ -17,7 +17,7 @@ Incoming PhD student at UIUC
 
 # About me
 
-Hi! I am a fourth-year undergraduate at the [School of Computer Science & Technology](http://english.cs.hust.edu.cn/), [Huazhong University of Science and Technology](http://english.hust.edu.cn/). My research interests lie in Software Engineering, Machine Learning, and Security, focusing on developing both traditional and data-driven program analysis to improve the security and reliability of software systems. I also get excited about Programming Languages.
+Hi! I am a senior student at the [School of Computer Science & Technology](http://english.cs.hust.edu.cn/), [Huazhong University of Science and Technology](http://english.hust.edu.cn/). My research interests lie in Software Engineering, Machine Learning, and Security, focusing on developing data-driven program analysis to improve the security and reliability of software systems.
 
 # Education
 
@@ -40,4 +40,3 @@ Submitted to [ICML 2024](https://icml.cc/). Under Review.
 # Hobbies
 - Music, a major fan of Taylor Swift. Also like Lana Del Rey and Coldplay :)
 - Chinese Calligraphy
-- Member of TGD, HUST 3C club. Occasionally participate in BP debates.
