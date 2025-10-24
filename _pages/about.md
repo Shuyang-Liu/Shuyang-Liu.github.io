@@ -19,7 +19,7 @@ Hi! I am a 2nd year PhD student in [Computer Science](https://siebelschool.illin
 
 # Education
 - P.h.D University of Illinois Urbana-Champaign
-  - 2024-2029(expected)
+  - 2024-2029 (expected)
 - B.Eng. Huazhong University of Science and Technology
   - 2020-2024
   - GPA: 3.93/4.00
@@ -27,16 +27,18 @@ Hi! I am a 2nd year PhD student in [Computer Science](https://siebelschool.illin
  
 # Internship
 - IBM Thomas J. Watson Research Center
-  - May. 2025 - Aug.2025
+  - May. 2025 - Aug. 2025
 
 
 # Publication
 - [[pdf](https://arxiv.org/pdf/2308.03312.pdf)] **Symmetry-Preserving Program Representations for Learning Code Semantics**  
 Kexin Pei, Weichen Li\*, Qirui Jin*, **Shuyang Liu**, Scott Geng, Lorenzo Cavallaro, Junfeng Yang, Suman Jana  
 (**Spotlight Top-3.5%**) in 41st International Conference on Machine Learning ([ICML 2024](https://icml.cc/)).
-- **Process-Centric Analysis of Agentic Software Systems**
-**Shuyang Liu**,Yang Chen, Rahul Krishna, Saurabh Sinha, Jatin Ganhotra, Reyhan Jabbarvand
-Under Review at Object-Oriented Programming, Systems, Languages & Applications (OOPSLA 2026)
-- **Evaluating the Generalizability of Large Language Models to Real-World Complexity**
-Yang Chen, **Shuyang Liu**, Reyhaneh Jabbarvand
-Under Review at Foundations of Software Engineering (FSE 2026)
+
+- **Process-Centric Analysis of Agentic Software Systems**   
+**Shuyang Liu**,Yang Chen, Rahul Krishna, Saurabh Sinha, Jatin Ganhotra, Reyhan Jabbarvand   
+Under Review at Object-Oriented Programming, Systems, Languages & Applications ([OOPSLA 2026](https://2026.splashcon.org/track/oopsla-2026)).
+
+- **Evaluating the Generalizability of Large Language Models to Real-World Complexity**   
+Yang Chen, **Shuyang Liu**, Reyhaneh Jabbarvand  
+Under Review at Foundations of Software Engineering ([FSE 2026](https://conf.researchr.org/home/fse-2026)).
