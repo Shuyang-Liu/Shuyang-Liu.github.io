@@ -8,35 +8,35 @@ redirect_from:
   - /about.html
 ---
 
-Senior at [Huazhong University of Science and Technology](http://english.hust.edu.cn/)  
-Department of Computer Science  
-Research Intern at [Columbia University](https://www.columbia.edu/), [University of Chicago](https://www.uchicago.edu/).  
-Contact: liushuyang860@gmail.com
+CS PhD student @UIUC
+Department of Computer Science
+Contact: sl225@illinois.edu
 
-Incoming PhD student at UIUC  
 
 # About me
 
-Hi! I am a senior student at the [School of Computer Science & Technology](http://english.cs.hust.edu.cn/), [Huazhong University of Science and Technology](http://english.hust.edu.cn/). My research interests lie in Software Engineering, Machine Learning, and Security, focusing on developing data-driven program analysis to improve the security and reliability of software systems.
+Hi! I am a 2nd year PhD student in [Computer Science](https://siebelschool.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/). My research interests lie in Aritificial Intelligence and Software Engineering, focusing on developing and optimizing code agents and intelligent software systems.
 
 # Education
-
+- P.h.D University of Illinois Urbana-Champaign
+  - 2024-2029(expected)
 - B.Eng. Huazhong University of Science and Technology
-  - 2020-2024 (expected)
-  - GPA: 3.92/4.00
+  - 2020-2024
+  - GPA: 3.93/4.00
+  - Outstanding Undergraduate
+ 
+# Internship
+- IBM Thomas J. Watson Research Center
+  - May. 2025 - Aug.2025
+
 
 # Publication
 - [[pdf](https://arxiv.org/pdf/2308.03312.pdf)] **Symmetry-Preserving Program Representations for Learning Code Semantics**  
 Kexin Pei, Weichen Li\*, Qirui Jin*, **Shuyang Liu**, Scott Geng, Lorenzo Cavallaro, Junfeng Yang, Suman Jana  
-Accepted by [MAPS workshop at ESEC/FSE 2023](https://mapsworkshop.github.io/)  
-Submitted to [ICML 2024](https://icml.cc/). Under Review.
-
-# Honors
--  Excellent Student Cadre (2020)
--  Outstanding Undergraduate of Academic Performance (2021)
--  Technology Innovation Scholarship (2022)
--  Social Welfare Scholarship (2023)
-
-# Hobbies
-- Music, a major fan of Taylor Swift. Also like Lana Del Rey and Coldplay :)
-- Chinese Calligraphy
+(**Spotlight Top-3.5%**) in 41st International Conference on Machine Learning ([ICML 2024](https://icml.cc/)).
+- **Process-Centric Analysis of Agentic Software Systems**
+**Shuyang Liu**,Yang Chen, Rahul Krishna, Saurabh Sinha, Jatin Ganhotra, Reyhan Jabbarvand
+Under Review at Object-Oriented Programming, Systems, Languages & Applications (OOPSLA 2026)
+- **Evaluating the Generalizability of Large Language Models to Real-World Complexity**
+Yang Chen, **Shuyang Liu**, Reyhaneh Jabbarvand
+Under Review at Foundations of Software Engineering (FSE 2026)
