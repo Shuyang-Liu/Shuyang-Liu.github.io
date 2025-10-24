@@ -82,12 +82,12 @@ analytics:
 author:
   name             : "Shuyang Liu"
   avatar           : "photo.png"
-  bio              : "Senior@HUST CS"
-  location         : "Wuhan, China"
+  bio              : "CS PhD student @UIUC"
+  location         : "Urbana, IL, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=kpjTbk4AAAAJ"
-  email            : liushuyang860@gmail.com
+  email            : sl225@illinois.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
