@@ -8,22 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-CS PhD student @UIUC
-Department of Computer Science
-Contact: sl225@illinois.edu
-
-
 # About me
 
-Hi! I am a 2nd year PhD student in [Computer Science](https://siebelschool.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/). My research interests lie in Aritificial Intelligence and Software Engineering, focusing on developing and optimizing code agents and intelligent software systems.
+Hi! I am a PhD student in [Computer Science](https://siebelschool.illinois.edu/) at [University of Illinois Urbana-Champaign](https://illinois.edu/) since Fall 2024. My research interests lie in Aritificial Intelligence and Software Engineering, focusing on developing and optimizing code agents and intelligent software systems.
 
 # Education
 - P.h.D University of Illinois Urbana-Champaign
   - 2024-2029 (expected)
 - B.Eng. Huazhong University of Science and Technology
-  - 2020-2024
+  - 2020-2024 (Outstanding Undergraduate)
   - GPA: 3.93/4.00
-  - Outstanding Undergraduate
  
 # Internship
 - IBM Thomas J. Watson Research Center
