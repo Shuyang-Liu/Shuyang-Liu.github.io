@@ -29,10 +29,8 @@ Hi! I am a PhD student in [Computer Science](https://siebelschool.illinois.edu/)
 Kexin Pei, Weichen Li\*, Qirui Jin*, **Shuyang Liu**, Scott Geng, Lorenzo Cavallaro, Junfeng Yang, Suman Jana  
 (**Spotlight Top-3.5%**) in 41st International Conference on Machine Learning ([ICML 2024](https://icml.cc/)).
 
-- **Process-Centric Analysis of Agentic Software Systems**   
-**Shuyang Liu**,Yang Chen, Rahul Krishna, Saurabh Sinha, Jatin Ganhotra, Reyhan Jabbarvand   
-Under Review at Object-Oriented Programming, Systems, Languages & Applications ([OOPSLA 2026](https://2026.splashcon.org/track/oopsla-2026)).
+- **Process-Centric Analysis of Agentic Software Systems**    
+Under Review.
 
 - **Evaluating the Generalizability of Large Language Models to Real-World Complexity**   
-Yang Chen, **Shuyang Liu**, Reyhaneh Jabbarvand  
-Under Review at Foundations of Software Engineering ([FSE 2026](https://conf.researchr.org/home/fse-2026)).
+Under Review.
