@@ -25,13 +25,13 @@ Hi! I am a PhD student in [Computer Science](https://siebelschool.illinois.edu/)
 
 
 # Publication
+- [[pdf](https://arxiv.org/abs/2512.02393)] **Process-Centric Analysis of Agentic Software Systems**    
+**Shuyang Liu**, Yang Chen, Rahul Krishna, Saurabh Sinha, Jatin Ganhotra, Reyhan Jabbarvand  
+The International Conference on Object-Oriented Programming Systems, Languages, and Applications ([OOPSLA 2026](https://2026.splashcon.org/track/oopsla-2026)).
+
 - [[pdf](https://arxiv.org/pdf/2308.03312.pdf)] **Symmetry-Preserving Program Representations for Learning Code Semantics**  
 Kexin Pei, Weichen Li\*, Qirui Jin*, **Shuyang Liu**, Scott Geng, Lorenzo Cavallaro, Junfeng Yang, Suman Jana  
 (**Spotlight Top-3.5%**) in 41st International Conference on Machine Learning ([ICML 2024](https://icml.cc/)).
-
-- [[pdf](https://arxiv.org/abs/2512.02393)] **Process-Centric Analysis of Agentic Software Systems**    
-**Shuyang Liu**, Yang Chen, Rahul Krishna, Saurabh Sinha, Jatin Ganhotra, Reyhan Jabbarvand  
-Under Review.
 
 - **Evaluating the Generalizability of Large Language Models to Real-World Complexity**   
 Yang Chen, **Shuyang Liu**, Reyhan Jabbarvand.  
