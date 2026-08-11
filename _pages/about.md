@@ -25,6 +25,6 @@ latest_posts:
   scrollable: true # adds a vertical scroll bar if there are more than 3 new posts items
   limit: 3 # leave blank to include all the blog posts
 ---
-I am a Ph.D. candidate in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by Prof. [Reyhaneh Jabbarvand](https://reyhaneh.cs.illinois.edu/). I obtained my B.S. degree from [University of Science and Technology of China]([https://en.ustc.edu.cn/](https://english.hust.edu.cn/)) in 2024, where I worked closely with Prof. [Ming Wen](https://mingwen-cs.github.io/).
+I am a Ph.D. candidate in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by Prof. [Reyhaneh Jabbarvand](https://reyhaneh.cs.illinois.edu/). I obtained my B.S. degree from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) in 2024, where I worked closely with Prof. [Ming Wen](https://mingwen-cs.github.io/).
 
 My research lies at the intersection of Artificial Intelligence and Software Engineering, with a particular focus on coding agents.
