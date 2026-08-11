@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://alshedivat.github.io/al-folio/sitemap.xml
+Sitemap: https://github.com/Shuyang-Liu/Shuyang-Liu.github.io/sitemap.xml
