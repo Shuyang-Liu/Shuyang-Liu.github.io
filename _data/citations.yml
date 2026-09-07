@@ -1,5 +1,5 @@
 metadata:
-  last_updated: '2026-08-26'
+  last_updated: '2026-09-07'
 papers:
   kpjTbk4AAAAJ:9yKSN-GCB0IC:
     citations: 27
@@ -18,10 +18,10 @@ papers:
     title: 'Graphectory Viewer: A Tool for Process-Centric Analysis of Agentic Software Trajectories'
     year: '2026'
   kpjTbk4AAAAJ:qjMakFHDy7sC:
-    citations: 24
+    citations: 25
     title: Process-Centric Analysis of Agentic Software Systems
     year: '2025'
   kpjTbk4AAAAJ:zYLM7Y9cAGgC:
-    citations: 5
+    citations: 7
     title: 'From Plan to Action: How Well Do Agents Follow the Plan?'
     year: '2026'
