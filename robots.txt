@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://github.com/Shuyang-Liu/Shuyang-Liu.github.io/sitemap.xml
+Sitemap: https://shuyang-liu.github.io/sitemap.xml
