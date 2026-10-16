@@ -31,24 +31,20 @@ I am a third-year Ph.D. candidate in Computer Science at [University of Illinois
 
 My research lies at the intersection of **Artificial Intelligence** and **Software Engineering**, with a particular focus on understanding and improving coding agents toward reliable and efficient agentic software systems.
 
+
 ## Internships
 
-<div class="row align-items-center mt-4 mb-4">
-  <div class="col-sm-2">
-    <img
-      src="{{ '/assets/img/ibm_logo.png' | relative_url }}"
-      alt="IBM logo"
-      class="img-fluid"
-      style="max-width: 110px;"
-    >
-  </div>
-
-  <div class="col-sm-7">
+<div style="display: flex; align-items: center; gap: 24px; margin: 24px 0; flex-wrap: wrap;">
+  <img
+    src="{{ '/assets/img/ibm_logo.png' | relative_url }}"
+    alt="IBM"
+    style="width: 100px; height: auto; object-fit: contain;"
+  >
+  <div style="flex: 1; min-width: 220px;">
     <strong>IBM Thomas J. Watson Research Center</strong>
-    <p class="mb-0">Research Intern</p>
+    <div>Research Intern</div>
   </div>
-
-  <div class="col-sm-3 text-sm-end">
-    <em>May 2025 – Aug 2025</em>
+  <div style="font-style: italic;">
+    May 2025 – Aug 2025
   </div>
 </div>
