@@ -1,4 +1,3 @@
-
 ---
 layout: about
 title: about
@@ -30,7 +29,6 @@ latest_posts:
 I am a third-year Ph.D. candidate in Computer Science at [University of Illinois Urbana-Champaign](https://illinois.edu/), advised by Prof. [Reyhaneh Jabbarvand](https://reyhaneh.cs.illinois.edu/). I was a research intern at [IBM Thomas J. Watson Research Center](https://research.ibm.com/) in Summer 2025. Previously, I received my B.S. degree from [Huazhong University of Science and Technology](https://english.hust.edu.cn/) in 2024 under the guidance of Prof. [Ming Wen](https://mingwen-cs.github.io/). During my undergraduate studies, I also conducted research at Columbia University, advised by Prof. [Kexin Pei](https://sites.google.com/site/kexinpeisite/) and Prof. [Suman Jana](https://www.cs.columbia.edu/~suman/). I am grateful to all my advisors for their invaluable guidance and support.
 
 My research lies at the intersection of **Artificial Intelligence** and **Software Engineering**, with a particular focus on understanding and improving coding agents toward reliable and efficient agentic software systems.
-
 
 ## Internships
 
